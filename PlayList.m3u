@@ -10,3 +10,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC
 http://nonton.wap.sh/id/017.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png",CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
