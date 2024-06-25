@@ -14,8 +14,11 @@ http://nonton.wap.sh/id/017.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png",CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://i.pinimg.com/originals/af/b6/04/afb604c480a768b932f6b26ced44db3d.png",RCTI
+#EXTINF:0 group-title="TV LOKAL" tvg-logo="https://i.pinimg.com/originals/af/b6/04/afb604c480a768b932f6b26ced44db3d.png",RCTI
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
 #EXTINF:0 group-title="TV LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="TV LOKAL" tvg-logo="https://i.imgur.com/lSgiYnp.png",TVRI DKI Jakarta (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.com
