@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>CYBER CRIME</title>
+<script language="javascript">
+  window.location = "https://www.youtube.com/watch?v=m5U8I3zYwwo";
+</script>
+</head>
+
+
+<noscript>
 #EXTM3U
 
 ------------------------TV INDONESIA--------------------------
@@ -218,3 +231,20 @@ https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="BIOSKOP TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-zero-to-hero-2024-lk21-d21.jpg.webp" group-title="VOD 2024",Zero to Hero 2024 
+https://stream.hownetwork.xyz/video.php?id=cd28cd5a2204bb228948a1b9d782abfe.m3u8
+
+
+<noscript>
+
+
+
+
+
+
+
+
+
+
