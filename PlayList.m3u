@@ -264,7 +264,7 @@ https://hls42-eu.zcdn.stream/0d923e2f213ecbb59a2ca869e8d1ccb5/2024-05-24/720.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/TRT_1_logo.png" group-title="LIVE LIGA EURO 2024",TRT1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/TRT_1_logo.png" group-title="LIVE LIGA AMERICCA 2024",TRT1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="LIVE LIGA AMERICCA 2024",TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
