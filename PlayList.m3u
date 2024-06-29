@@ -254,8 +254,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Godzilla.x.
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-under-paris-2024-lk21-d21.jpg.webp" group-title="FILM",Under Paris (2024) 
 https://stream.hownetwork.xyz/yyy/under-paris-2024-webdl_X_d1f2afb9/22/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg" group-title="FILM",Vina (2024) 
-https://hls42-eu.zcdn.stream/0d923e2f213ecbb59a2ca869e8d1ccb5/2024-05-24/720.m3u8?token=80747598aa4c6ca0dffea26639189875
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg" group-title="FILM",Vina (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80747598aa4c6ca0dffea26639189875
+https://hls42-eu.zcdn.stream/0d923e2f213ecbb59a2ca869e8d1ccb5/2024-05-24/720.m3u8
 
 
 
